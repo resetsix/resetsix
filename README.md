@@ -1,23 +1,30 @@
-# 🙋 Hello すみません
+# Hi 👋 よろしくおねがいします
+
+<h3>Hello，I'm resetsix。</h3>
 
 <!-- dynamic typing effect 动态打字效果 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+resetsix.%E5%B8%8C%E6%9C%9B%E6%88%91%E8%83%BD%E4%BC%A0%E6%92%AD%E5%BF%AB%E4%B9%90%E7%BB%99%E4%BD%A0%E3%80%82)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+resetsix.%E5%B8%8C%E6%9C%9B%E6%88%91%E8%83%BD%E4%BC%A0%E6%92%AD%E5%BF%AB%E4%B9%90%E7%BB%99%E4%BD%A0%E3%80%82)](https://git.io/typing-svg) -->
 
 <!-- knock code pictures 敲代码的图片 -->
 
-<img width="200" src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47obtqcpjdwcuylnscejlm8s8nharuq9o75ya846kh&rid=giphy.gif&ct=g" /><br>
+<!-- <img width="200" src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47obtqcpjdwcuylnscejlm8s8nharuq9o75ya846kh&rid=giphy.gif&ct=g" /><br> -->
+
+<!-- 访客 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/resetsix/count.svg" />
+</p>
 
 <!-- About me 关于我 -->
 
-# 🌞 About Me ありがとう
+<!-- # 🌞 About Me ありがとう -->
 
 <img align="right" width="150" src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/200w.webp?cid=ecf05e47jlkwo438tpoebbmojuqakxv9rajqje2jax1u66oy&rid=200w.webp&ct=g" />
 
-<div align="center"> <img src="https://metrics.lecoq.io/resetsix?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/resetsix?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<p>&emsp;&emsp;<b>Hello，I'm resetsix。</b></p>
-<p>&emsp;&emsp;<b>目前是一名即将毕业的计算机学生，喜欢猫。</b></p>
+<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机<del>学生</del> 打工人，喜欢猫。</b></p>
 <p>&emsp;&emsp;Currently a graduating computer student who loves cats.</p>
 <p>&emsp;&emsp;<b>热爱编程和计算机技术，渴望成为一名资深软件工程师！</b></p>
 <p>&emsp;&emsp;Love programming and computer technology, eager to become a senior software engineer!</p>
@@ -82,8 +89,3 @@
 <!-- programming tool icon 编程工具图标 -->
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,react,ts,webpack,html,css,emotion,git,java,k8s,docker,linux,nodejs,postman,javascript,babel,twitter,git,github,nginx" /><br>
-
-<!-- 访客 -->
-<span >
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=resetsix" /> </div>
-</span>
