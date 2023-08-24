@@ -24,15 +24,21 @@
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/resetsix?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机<del>学生</del> 打工人，喜欢猫。</b></p>
+<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机<del>学生</del> 打工人，喜欢猫和薛之谦。</b></p>
+<b><p>&emsp;&emsp;如果你也喜欢他们，那恭喜我们有相同的兴趣爱好</b></p>
+
+<hr/>
+
 <p>&emsp;&emsp;Currently a graduating computer student who loves cats.</p>
 <p>&emsp;&emsp;<b>热爱编程和计算机技术，渴望成为一名资深软件工程师！</b></p>
 <p>&emsp;&emsp;Love programming and computer technology, eager to become a senior software engineer!</p>
 <p>&emsp;&emsp;<b>编程的目的：为解决问题而生；初心：技术超群，予人温暖。</b></p>
 <p>&emsp;&emsp;The purpose of programming: born to solve problems; original intention: superior technology and warmth.</p>
 
-<p><strong>&emsp;&emsp;Favorite blogger and anchor is Super Xiaojie, because he is a very positive person.(74751)</strong></p>
+<del>&emsp;&emsp;Favorite blogger and anchor is Super Xiaojie, because he is a very positive person.(74751)</del>人设翻车
+
 <p>&emsp;&emsp;<b>春风得意马蹄疾，一日看尽长安花。</b> --孟郊《登科后》</p>
+<p>&emsp;&emsp;<b>感激身边每一位帮助过我的人</p>
 
 # 🌃 Codeing
 
