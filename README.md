@@ -1,6 +1,6 @@
 # Hi 👋 よろしくおねがいします
 
-<h3>Hello，I'm resetsix。</h3>
+<h3>Hello，I'm resetsix。希望我能带来快乐给你！</h3>
 
 <!-- dynamic typing effect 动态打字效果 -->
 
@@ -24,17 +24,19 @@
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/resetsix?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机<del>学生</del> 打工人，喜欢猫和薛之谦。</b></p>
-<b><p>&emsp;&emsp;如果你也喜欢他们，那恭喜我们有相同的兴趣爱好。</b></p>
+<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机 <del>学生</del> 搬砖人，喜欢猫和薛之谦。</b></p>
+<p>&emsp;&emsp;Currently a <del>about to graduate</del> graduated computer <del>student</del> bricklayer, likes cats and Joker Xue.</p>
 
-<p>&emsp;&emsp;Currently a graduating computer student who loves cats.</p>
+<b><p>&emsp;&emsp;如果你也喜欢他们，那恭喜我们有相同的兴趣爱好。</b></p>
 <p>&emsp;&emsp;<b>热爱编程和计算机技术，渴望成为一名资深软件工程师！</b></p>
 <p>&emsp;&emsp;Love programming and computer technology, eager to become a senior software engineer!</p>
-<p>&emsp;&emsp;<b>为何编程？是工作，也是生活；初心：技术超群，予人温暖。</b></p>
-<p>&emsp;&emsp;The purpose of programming: born to solve problems; original intention: superior technology and warmth.</p>
+<p>&emsp;&emsp;<b>为何选择编程？代码，是工作，也是生活；渴望：技术超群，予人温暖。</b></p>
+<p>&emsp;&emsp;Why choose programming? Coding is work and life; desire: superior technology and warmth.</p>
 <p>&emsp;&emsp;<b>春风得意马蹄疾，一日看尽长安花。</b> --孟郊《登科后》</p>
-<p>&emsp;&emsp;今年有幸去看了薛之谦兰州演唱会，以后有机会还想去。</p>
+<p>&emsp;&emsp;<b>有幸去看过薛之谦兰州演唱会。</b> </p>
+<p>&emsp;&emsp;I was lucky enough to go to Joker Xue's Lanzhou concert.</p>
 <p>&emsp;&emsp;<b>感激身边每一位帮助过我的人。</p>
+<p>&emsp;&emsp;I am grateful to everyone around me who has helped me.</p>
 
 # 🌃 Codeing
 
