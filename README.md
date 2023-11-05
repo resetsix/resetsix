@@ -1,6 +1,6 @@
-# Hi 👋 よろしくおねがいします
+# Hi 👋 ありがとう
 
-<h3>Hello，I'm resetsix。希望我能带来快乐给你！</h3>
+### Hello，I'm resetsix。I hope I can bring you joy.
 
 <!-- dynamic typing effect 动态打字效果 -->
 
@@ -10,11 +10,6 @@
 
 <!-- <img width="200" src="https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47obtqcpjdwcuylnscejlm8s8nharuq9o75ya846kh&rid=giphy.gif&ct=g" /><br> -->
 
-<!-- 访客 -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/resetsix/count.svg" />
-</p>
 
 <!-- About me 关于我 -->
 
@@ -24,19 +19,19 @@
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/resetsix?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<p>&emsp;&emsp;<b>目前是一名 <del>即将毕业</del> 已毕业的计算机 <del>学生</del> 搬砖人，喜欢猫和薛之谦。</b></p>
-<p>&emsp;&emsp;Currently a <del>about to graduate</del> graduated computer <del>student</del> bricklayer, likes cats and Joker Xue.</p>
+## me
 
-<b><p>&emsp;&emsp;如果你也喜欢他们，那恭喜我们有相同的兴趣爱好。</b></p>
-<p>&emsp;&emsp;<b>热爱编程和计算机技术，渴望成为一名资深软件工程师！</b></p>
-<p>&emsp;&emsp;Love programming and computer technology, eager to become a senior software engineer!</p>
-<p>&emsp;&emsp;<b>为何选择编程？代码，是工作，也是生活；渴望：技术超群，予人温暖。</b></p>
-<p>&emsp;&emsp;Why choose programming? Coding is work and life; desire: superior technology and warmth.</p>
-<p>&emsp;&emsp;<b>春风得意马蹄疾，一日看尽长安花。</b> --孟郊《登科后》</p>
-<p>&emsp;&emsp;<b>有幸去看过薛之谦兰州演唱会。</b> </p>
-<p>&emsp;&emsp;I was lucky enough to go to Joker Xue's Lanzhou concert.</p>
-<p>&emsp;&emsp;<b>感激身边每一位帮助过我的人。</p>
-<p>&emsp;&emsp;I am grateful to everyone around me who has helped me.</p>
+**Currently a ~~about to graduate~~ graduated computer ~~student~~ bricklayer, likes cats and Joker Xue.**
+
+**If you like them too, then congratulations we have the same interests.**
+
+**Passionate about programming and computer technology and eager to become a senior software engineer!**
+
+**Why choose programming? Coding is work and life; desire: superior technology and warmth.**
+
+**I was fortunate enough to go to the Joker Xue's Lanzhou concert.**
+
+**I am grateful to everyone around me who has helped me.**
 
 # 🌃 Codeing
 
@@ -46,13 +41,13 @@
 
 <!-- 常用语言 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resetsix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resetsix&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--  skill badge 技能徽章 -->
 
 # 💻 Plan
 
-📊 Now(目前学习)
+📊 Now
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -67,7 +62,7 @@
 ![WebPack Badge](https://img.shields.io/badge/WebPack-4FC08D?logo=webpack&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-393?logo=Git&logoColor=fff&style=flat)
 
-📅 plan(计划学习)
+📅 plan
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=fff&style=flat)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-239120?logo=Spring+Boot&logoColor=fff&style=flat)
@@ -81,7 +76,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-3DDC84?logo=Docker&logoColor=fff&style=flat)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-646CFF?logo=Kubernetes&logoColor=fff&style=flat)
 
-🧰 常用的工具
+🧰 差生文具多
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
@@ -93,3 +88,9 @@
 <!-- programming tool icon 编程工具图标 -->
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,react,ts,webpack,html,css,emotion,git,java,k8s,docker,linux,nodejs,postman,javascript,babel,twitter,git,github,nginx" /><br>
+
+<!-- 访客 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/resetsix/count.svg" />
+</p>
