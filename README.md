@@ -3,7 +3,7 @@
 > Hi，I'm resetsix.  
 > I hope I can bring u joy.
 
-![](https://github.com/zhangtengjin/zhangtengjin/blob/main/icons/header.png)
+![](https://github.com/resetsix/resetsix/blob/main/icons/header.png?raw=true)
 
 <img align="right" width="150" src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/200w.webp?cid=ecf05e47jlkwo438tpoebbmojuqakxv9rajqje2jax1u66oy&rid=200w.webp&ct=g" />
 
