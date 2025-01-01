@@ -3,7 +3,7 @@
 > Hi，I'm resetsix.  
 > I hope I can bring u joy.
 
-![](./icons/header.png)
+![](https://github.com/resetsix/resetsix/blob/main/icons/header.png?raw=true)
 
 
 ## me
