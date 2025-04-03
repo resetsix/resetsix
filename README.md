@@ -1,4 +1,4 @@
-# Welcome here 👋 ありがとう
+# welcome
 
 > Hi，I'm resetsix.  
 > I hope I can bring u joy.
